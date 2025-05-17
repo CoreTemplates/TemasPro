@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://temaspro.onrender.com/sitemap.xml
